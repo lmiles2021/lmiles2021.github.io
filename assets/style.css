@@ -1,1 +1,21 @@
+body {
+  background: radial-gradient(ellipse at top, #121733 0%, #070b18 60%);
+  color: #e6e9ef;
+  font-family: 'Inter', sans-serif;
+}
 
+a {
+  color: #7aa2f7;
+}
+
+h1, h2, h3 {
+  font-family: 'Libre Baskerville', serif;
+  color: #f2f4f8;
+}
+
+code {
+  background: #0f1327;
+  color: #c3e88d;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
