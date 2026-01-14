@@ -1,17 +1,30 @@
 <link rel="stylesheet" href="assets/style.css">
-<div style="display:flex; align-items:center; gap:1.5rem; margin-bottom:2rem;">
-  <img src="assets/profpic.jpg"
-       alt="Luke Miles"
-       style="width:120px; border-radius:50%; border:2px solid #2a2f55;">
 
-[GitHub](https://github.com/yourusername) | 
-[LinkedIn](https://linkedin.com/in/yourprofile) | 
-[PDF Resume](resume.pdf)
+<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2.5rem;">
 
----
+  <!-- Left column: photo + links -->
+  <div style="text-align:center; min-width:140px;">
+    <img src="assets/profpic.jpg"
+         alt="Luke Miles"
+         style="width:120px; border-radius:50%; border:2px solid #2a2f55; margin-bottom:0.8rem;">
 
-## About
-Short, sharp paragraph. What you work on, what you care about, what you’re good at.
+    <div style="font-size:0.9rem;">
+      <a href="https://github.com/yourusername">GitHub</a><br>
+      <a href="https://linkedin.com/in/yourprofile">LinkedIn</a><br>
+      <a href="resume.pdf">PDF Resume</a>
+    </div>
+  </div>
+
+  <!-- Right column: about text -->
+  <div>
+    <h2 style="margin-top:0;">About</h2>
+    <p>
+      Short, sharp paragraph. What you work on, what you care about,
+      what you’re good at.
+    </p>
+  </div>
+
+</div>
 
 ## Projects
 ### Exomoon Stability Simulations
