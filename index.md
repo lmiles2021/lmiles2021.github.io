@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="assets/style.css">
 <div style="display:flex; align-items:center; gap:1.5rem; margin-bottom:2rem;">
-  <img src="assets/profile.jpg"
+  <img src="assets/profpic.jpg"
        alt="Luke Miles"
        style="width:120px; border-radius:50%; border:2px solid #2a2f55;">
   <div>
