@@ -22,7 +22,7 @@
       I work primarily on computational physics problems involving extremely large datasets and visualization models. My focus is on extracting applicable and useful insights 
       from simulations, datasets, and observations using scalable, reproducible, and teachable workflows. I am especially interested in roles that sit at the intersection of data
       analysis, physics, and high-performance computing. While much of my experience and projects are tied to computational astronomy, the skills they have taught and challenges 
-      I have faced me are invaluable in any field, in some cases even more so than a typical traditional route.
+      I have faced are invaluable in any field, in some cases even more so than a traditional route.
     </p>
   </div>
 
