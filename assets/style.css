@@ -7,3 +7,10 @@ body {
   background-size: cover, 300px 300px, 300px 300px;
   color: #e6e9ef;
 }
+/* BOTTOM (content from index.md) */
+.main-content {
+  background-image: url("body.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
