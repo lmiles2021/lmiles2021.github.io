@@ -19,8 +19,9 @@
   <div>
     <h2 style="margin-top:0;">About</h2>
     <p>
-      Short, sharp paragraph. What you work on, what you care about,
-      what you’re good at.
+      I work primarily on computational physics problems involving extremely large datasets and visualization models. My focus is on extracting applicable and useful insights 
+      from simulations, datasets, and observations using scalable, reproducible, and teachable workflows. I am especially interested in roles that sit at the intersection of data
+      analysis, physics, and high-performance computing. 
     </p>
   </div>
 
