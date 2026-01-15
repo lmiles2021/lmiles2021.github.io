@@ -30,9 +30,10 @@
 
 ## Projects
 ### Exomoon Stability Simulations
-- N-body simulations using REBOUND
-- TRAPPIST-1 system
-- Parallelized on HPC clusters  
+- Coded N-body simulation in Python
+    - Over half a billion total resulting data points
+- Parallelized on HPC clusters
+- Analyzed results to produce practical insights and intuitive visuals   
 [View code →](https://github.com/...)
 
 ### Stellar Variability Analysis
